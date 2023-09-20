@@ -1,0 +1,10 @@
+C:\Users\user\source\repos\bobik, ti ubit\bin\Debug\bobik, ti ubit.exe.config
+C:\Users\user\source\repos\bobik, ti ubit\bin\Debug\bobik, ti ubit.exe
+C:\Users\user\source\repos\bobik, ti ubit\bin\Debug\bobik, ti ubit.pdb
+C:\Users\user\source\repos\bobik, ti ubit\obj\Debug\bobik, ti ubit.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\bobik, ti ubit\obj\Debug\bobik__ti_ubit.Form1.resources
+C:\Users\user\source\repos\bobik, ti ubit\obj\Debug\bobik__ti_ubit.Properties.Resources.resources
+C:\Users\user\source\repos\bobik, ti ubit\obj\Debug\bobik, ti ubit.csproj.GenerateResource.cache
+C:\Users\user\source\repos\bobik, ti ubit\obj\Debug\bobik, ti ubit.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\bobik, ti ubit\obj\Debug\bobik, ti ubit.exe
+C:\Users\user\source\repos\bobik, ti ubit\obj\Debug\bobik, ti ubit.pdb
